@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AW9523BTQR
+D IO expander 16 GPIO, I2C 400kHz, Interrupt, QFN-24
+K IO expander 16 GPIO
+$ENDCMP
+#
+#End Doc Library
